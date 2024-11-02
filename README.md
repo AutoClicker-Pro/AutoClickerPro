@@ -7,3 +7,5 @@ With options for single-click automation or designing complex sequences of click
 
 Users can dynamically select click locations, set both fixed and adaptive delays between clicks, and assign hotkeys for easy activation. 
 The program also allows for the creation of click workflows, combining left and right clicks in a specified order, making it ideal for both simple and advanced automation needs.
+
+Download Now : https://sourceforge.net/projects/autoclickerpro/
